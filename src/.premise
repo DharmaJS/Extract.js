@@ -1,0 +1,6 @@
+
+prepend[] = "guts.js"
+prepend[] = "FileSaver.min.js"
+prepend[] = "xlsx.full.min.js"
+prepend[] = "xml2json.js"
+prepend[] = "extract.coffee?options[bare]=true"
